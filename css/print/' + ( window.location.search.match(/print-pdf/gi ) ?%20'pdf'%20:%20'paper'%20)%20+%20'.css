@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Web hosting, domain names, VPS - 000webhost.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/new_style.css" rel="stylesheet" type="text/css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="popup.js"></script>
+<style media="screen" type="text/css">
+.popup {
+	display:block;
+	width:666px;
+	height: 474px;
+	background-image:url('bg_popup.png');
+	background-position: center top; 
+	background-repeat: no-repeat;
+}
+.popup a.close {
+	display:block;
+	float:right;
+	width:44px;
+	height:44px;
+}
+.ikuruzkrauti {
+	margin:30px;
+}
+</style>
+
+</head>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10701068-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<map name="map1">
+<area shape=rect coords="325,60,440,94" href="http://www.000webhost.com/features" target="_parent" alt="Features" title="Features">
+<area shape=rect coords="442,60,549,94" href="http://www.000webhost.com/order.php" target="_parent" alt="Order Now" title="Order Now">
+<area shape=rect coords="550,60,659,94" href="http://www.000webhost.com/affiliate-program" target="_parent" alt="Affiliate Program" title="Affiliate Program">
+<area shape=rect coords="660,60,770,94" href="http://www.000webhost.com/contact" target="_parent" alt="Contact Us" title="Contact Us">         
+</map>
+
+
+<body class="twoColFixRtHdr">
+
+<div id="visas_style_div" style="display:none;" class="popup">
+	<a href="" class="close bClose"></a>
+	<div class="ikuruzkrauti"><a href="http://hostinger.com.br" target="_blank"><img src="http://hostinger.com.br/banners/br/hostinger-600x400-2.gif" border="0" /></a></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+$('#visas_style_div').bPopup({
+    contentContainer:'.ikuruzkrauti',
+});
+});
+</script>
+
+
+<div id="container">
+  <div id="header">
+  	<img src="/images/locale/EN/header.gif" width="780" height="119" border="0" usemap="#map1" />
+</div>
+ 
+<div id="sidebar1">
+<div align="center">
+</div>
+    <table width="200" border="0" cellspacing="5" cellpadding="0">
+      <tr>
+        <td width="20%"><div align="center"><img src="/images/icons/menu1.gif" alt="" width="16" height="16" /></div></td>
+
+        <td width="80%"><a class="rightmenu" href="http://www.000webhost.com/">Free Web Hosting</a></td>
+      </tr>
+      <tr>
+        <td><div align="center"><img src="/images/icons/main1.gif" alt="" width="16" height="16" /></div></td>
+        <td><a href="http://www.hosting24.com/" class="rightmenu">Premium Web Hosting</a></td>
+      </tr>
+      <tr>
+        <td><div align="center"><img src="/images/icons/main5.gif" alt="" width="16" height="16" /></div></td>
+        <td><a href="http://www.000webhost.com/website-builder" class="rightmenu">Website Builder</a></td>
+      </tr>
+      <tr>
+        <td><div align="center"><img src="/images/icons/templates_small.gif" alt="" width="16" height="16" /></div></td>
+        <td><a href="http://www.000webhost.com/templates/" class="rightmenu">Website Templates</a></td>
+      </tr>     
+      <tr>
+        <td><div align="center"><img src="/images/icons/directory_list_small.gif" alt="" width="16" height="16" /></div></td>
+        <td><a href="http://www.000webhost.com/directory/" class="rightmenu">Web Hosting Reviews</a></td>
+      </tr>             
+      <tr>
+        <td><div align="center"><img src="/images/icons/menu11.jpg" alt="" width="16" height="16" /></div></td>
+        <td><a href="http://www.000webhost.com/affiliate-program" class="rightmenu">Affiliate Program</a></td>
+      </tr>
+      <tr>
+        <td><div align="center"><img src="/images/icons/menu13.gif" width="16" height="16" /></div></td>
+        <td><a href="http://www.000webhost.com/forum/" class="rightmenu">Web Hosting Forum</a></td>
+      </tr>
+    </table>
+    <div align="center"><br />
+    <br />
+    <a href="http://www.000webhost.com/order.php"><img src="/images/locale/EN/signup.gif" width="183" height="75" border="0" /></a> 
+    <br />
+    <br />
+    </div>
+</div>
+<div id="mainContent">
+    <table width="500" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="12%"><img src="/images/icons/upgrade.gif" width="48" height="48" /></td>
+        <td width="88%"><h4>Free web hosting, no ads or banners!</h4></td>
+      </tr>
+    </table>
+	<p>Can you imagine <b>free web hosting</b> service that has 99.9% uptime? Too good to be true? No more! <a href='http://www.000webhost.com/'>000webhost.com</a> has made the revolution, forget the stereotype that free hosting is unreliable.. Here is the proof: <a href='http://www.serviceuptime.com/users/monitoring.php?S=6c8ef11fcca35bab3d971cdce3d7179b' target='_blank'>uptime stats of 20 servers</a>. We beat your paid hosting provider!</p>
+
+<!-- <p align="center"><img src="advertisement.gif"></p> -->
+<fieldset><legend>Advertisements</legend>
+<p align="center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9043996592502243";
+/* 000webhost Error Big */
+google_ad_slot = "1420565520";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+</fieldset>
+    
+    <h3>1500 MB disk space, 100 GB data transfer! PHP, MySQL, FTP, cPanel..</h3>
+    <p>Our free hosting service is supercharged with over 60 features, just like paid hosting. Unrestricted access to PHP, MySQL, FTP, cPanel, Website Builder and many more features are waiting for you absolutely free!</p>
+    <h3>Need unlimited premium hosting that is really UNLIMITED?</h3>
+    <p>Signup with <a href='http://www.hosting24.com/'>www.hosting24.com</a> - <b>unlimited</b> disk space, <b>unlimited</b> data transfer, host <b>unlimited</b> domains for just $4.84</p>
+    <table width="500" border="0" cellpadding="2" cellspacing="2" bgcolor="#F2F2F2">
+      <tr class="dblue">
+        <td> </td>
+        <td><div align="center"><strong>&raquo; Free Hosting</strong></div></td>
+        <td><div align="center"><strong>&raquo; Premium Hosting</strong></div></td>
+      </tr>
+      <tr class="list_accounts">
+        <td width="40%">Price</td>
+        <td width="30%">$0.00</td>
+        <td width="30%">$4.84 / month</td>
+      </tr>
+      <tr class="list_accounts2">
+        <td width="40%">Disk Space</td>
+        <td width="30%">1500 MB</td>
+        <td width="30%">Unlimited Disk Space!</td>
+      </tr>
+      <tr class="list_accounts">
+        <td width="40%">Data Transfer</td>
+        <td width="30%">100 GB / month</td>
+        <td width="30%">Unlimited Data Transfer!</td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Add-on Domains</td>
+        <td>5</td>
+        <td>Unlimited</td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Sub-domains</td>
+        <td>5</td>
+        <td>Unlimited</td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>E-mail Addresses</td>
+        <td>5</td>
+        <td>Unlimited</td>
+      </tr>
+      <tr class="list_accounts">
+        <td>MySQL Databases</td>
+        <td>2</td>
+        <td>Unlimited</td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Free domain registration yourname.COM, .NET, .ORG, .INFO, .CO.UK</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Control Panel</td>
+        <td>Custom Panel</td>
+        <td>cPanel Pro, <a href="http://x3demob.cpx3demo.com:2082/login/?user=x3demob&pass=x3demob" target="_blank">see demo</a></td>
+      </tr>
+      <tr class="list_accounts">
+        <td height="40"> </td>
+        <td><a href="http://www.000webhost.com/order.php"><img src="images/ordernow1.gif" width="89" height="25" border="0" /></a></td>
+        <td><a href="http://www.hosting24.com/" target="_blank"><img src="images/ordernow1.gif" alt="Web Hosting" width="89" height="25" border="0" /></a></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Site Builder</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Advanced Site Builder</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>      
+      <tr class="list_accounts">
+        <td>Assistance in  Installing Your Scripts</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Help in Developing Your Website</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Backups</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Automated Weekly Backups</td>
+        <td>Limited</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>      
+      <tr class="list_accounts2">
+        <td>Uptime</td>
+        <td>99%</td>
+        <td>99.9%</td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>FTP Accounts</td>
+        <td>1</td>
+        <td>Unlimited</td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Anonymous FTP Access</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>CGI Scripts</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>PHP</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Ruby On Rails</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>SSH Access</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Perl</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td> ASP.NET</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Python</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Cron Jobs</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>FrontPage </td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>POP3 Accounts</td>
+        <td>5</td>
+        <td>Unlimited</td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Web Mail</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Mailing Lists</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>IMAP Support</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>SMTP</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Autoinstaller</td>
+        <td>10 Scripts</td>
+        <td>50 Scripts (Fantastico)</td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Custom Error Pages</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>AWStats (Real Time Stats)</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Webalizer Stats</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Password Protect Directories</td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td>Shared SSL</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts2">
+        <td>Private SSL</td>
+        <td><img src="images/uncheck.gif" width="15" height="15" /></td>
+        <td><img src="images/check.gif" width="15" height="15" /></td>
+      </tr>
+      <tr class="list_accounts">
+        <td height="40"> </td>
+        <td><a href="http://www.000webhost.com/order.php"><img src="images/ordernow1.gif" width="89" height="25" border="0" /></a></td>
+        <td><a href="http://www.hosting24.com/" target="_blank"><img src="images/ordernow1.gif" alt="Web Hosting" width="89" height="25" border="0" /></a></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+    <h4> <img src="images/icons/main1.gif" alt="" width="16" height="16" /> 1500 MB Disk Space, 100 GB Data Transfer</h4>
+    <p>Every account receives 1500MB space and a whopping 100GB bandwidth, made possible by the unmetered connections our servers utilise. Should your site ever need more than our standard package can offer, we also offer a wide range of upgrade options.</p>
+    <h4> <img src="images/icons/main2.gif" width="16" height="16" /> PHP with MySQL Database Support</h4>
+    <p>Unlike other free webhosts we do support PHP and MySQL with no restrictions. You get full access to the latest version of PHP and MySQL. The following PHP features are fully supported:</p>
+    <ul>
+      <li>PHP mail() function and Sendmail</li>
+      <li>Curl, GD2 library, XML, Zend, .htaccess support</li>
+      <li>fopen() and PHP sockets</li>
+      <li>safe_mode is OFF, file uploads are ON</li>
+      <li>Zend Optimizer support, Ioncube loader.. and much more features are enabled</li>
+    </ul>
+    <h4> <img src="images/icons/main3.gif" width="16" height="16" /> cPanel Control Panel</h4>
+    <p>cPanel is the most advanced control panel in industry. It has tons of features and it is easy to use even for newbie. Interactive help, video tutorials will help you to understand why cPanel is the best and you will never want to switch to anything else. cPanel is widely used by the paid hosts, but we are giving you it absolutely free!<br /></p>
+    <h4> <img src="images/icons/main4.gif" width="16" height="16" /> Fantastico De Luxe 1-Click Autoinstaller</h4>
+    <p>Finally! We are the first free webhosting company that gives you access to Fantastico Autoinstaller. Fantastico is a system designed to make installing popular scripts easy. If you want to improve your web site with a discussion forum or an online gallery to show everyone your latest holiday snaps, you can. With a few clicks of your mouse your web site will be transformed into a fantastic resource for you, your business or your family.</p>
+    <p>Fantastico can install over 40 popular scripts such as: Drupal, Geeklog, Joomla, Xoops, WordPress, b2evolution, Support Logic Helpdesk, phpBB2, SMF, OS Commerce, ViPER Guestbook, Coppermine Photo Gallery, PhpWiki, PHPauction, WebCalendar and more. To see full list of available installations <a href="http://www.000webhost.com/fantastico">click here</a>.</p>
+    <h4> <img src="images/icons/main5.gif" width="16" height="16" /> Website Builder Software</h4>
+    <p>Our hosting is supercharged with SiteReptile website builder. SiteReptile is the easiest to use website builder in the market. Just 3 steps (enter your login details, select one of 330 high quality templates and click 'publish') and your website is ready online for editing. Just one click - and you have subpage created or contact form inserted. </p>	
+</div>
+
+<div id="footer"> 
+	<img src="/images/l6.jpg" alt="" width="780" height="11" /><br />
+    <font style="padding-left:30px">2007-2014 (c) Copyright 'First class <a href="http://www.hosting24.com/">Web Hosting</a>'.</font>
+</div>
+
+</div>
+</body>
+</html>
