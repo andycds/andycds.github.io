@@ -1,1 +1,76 @@
+==================================================================
+https://keybase.io/andycds
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://software.pro.br
+  * I am andycds (https://keybase.io/andycds) on keybase.
+  * I have a public key with fingerprint E980 A2F4 94E9 2E56 E262  9466 227A FDB8 C002 3461
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205efd495499c426ab3557983a442d6e60fa6185ac1e24284ff5655ffe76d1eb730a",
+            "fingerprint": "e980a2f494e92e56e2629466227afdb8c0023461",
+            "host": "keybase.io",
+            "key_id": "227afdb8c0023461",
+            "kid": "0101f82817519efa4b615e29ddada512ce4d9b94269093323bf1146d727a7538757a0a",
+            "uid": "4b55b754d146e339b2f6cb86e3c45019",
+            "username": "andycds"
+        },
+        "service": {
+            "hostname": "software.pro.br",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499307000,
+    "expire_in": 157680000,
+    "prev": "0910f65ac3ec0b3a99a6eb7122ba606c83bc22876d744484c4b74999974f8714",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJrUFVVGL3YVeMyJkGiJoocqJhCPI99XteGckSiMUnFiEq67nPOPtwD
+t3su98FLGJMJxNDRSmNElBEQX3gFNYrGHzyiZEQnYsCBEXmozICi0dRIg2j7Mvqv
+X/vb315rzVrft39Z8ILB5EfkzfzUPAdAv6sthz2GT1KPTO0gJF3JJcw7iAw0eyCb
+glxuS4amEGaCpGiSRaoCRBaIogxoDkoMy/KiwEAAaIVDHKlCjhJYKFOIBrQAVJXl
+WFZVEc8pFJJ4hoRENKFq9jTkdDg1uxvLIlEgIa0CESCRRiyHaI4WAcfRNA9VRRJk
+kqQZwFGYaNVdPgY2J0EXitF03MMXy6y9/8E/901SqkALFM9SIlIhkDiKRbSoKFCB
+LEXLCCiiJOI8IikyDM1IKkUBTuGxIM8yAs/ycNa3Z1YOSCwr8SxQMAYxjCjRKidL
+Aq5lwJKU6AO6kNMOv0AYDe1Krqy4iIJoAjezNBn55uoL8gzg0lV3NnSiGIdTj5Gc
+mI0Lty7rNvxodbsdZh/XnevwgbORZHkmY5E0u4IHiQlZyOnSdDthpjBSdms+XQqv
+iCF5kiSjCZTj0JzIovkQLM8J5GzX4URZvumIFKlyeGUMkkmJgaIIObwpiqYlyJGc
+LDCSTNMCXiAPABCADCQea4siD1SBpwDhC5Zp17G2iH3CNF8mLc0O3R4nIgpaW7YZ
+DX4mw7y5c3w/zGDyD3z+7zbfCTR4gy7W18dXeh+lBk6m3yuz3a5SB7oLyo8Zj3RM
+ftzePD3FI3LNwNP1RWWDY5sWnTT3qWcnvUF7SmvHE9t73Z2v54SNDC23arVvh7/X
+INRNhg4SeT1pkSNjLBvQt3lb19IXTStuHfBc4X4LuH/+tby7VdpHYfrcJAb2RyaX
+Xx8d3W0dums1/ZW6fjCdiy/a0NT0tHXdvo0hLsVb/WpAb1vrk4isvP3vBjQEo+AP
+umZWbQxtXdNj3EIv6yz7wdzf0zhRcnbJ9BvnJv5cu1RoHwmsb97Vlbh8+/EzHd6p
+0vc9cCznynB3ga0I3Ps+O2XTA/a0f/VWrfN+ysTCLbH9sRxzVNkTchvEFfnXdawM
+j278/cT8z0JeykThtzIerjB+4194Bx5qKy7X9x5LP7D65X07kw+N6G8eHb6ZXN4r
+n1kw6j3ZtLMluaapMCEh2FlRWRq14+9zXw20OKa5qt3DjrXpti89v+63Pvm8LtJ/
+HhU2GPfPZXSQcV2N/Xbk0UL5VET46VNh1YWWlAeFuwb+6BiPM1Tkx8/U/Htt2VuX
+Wy8l88dXmYu/W5Q5Ybb1BKl1NSV7D0Z5Qb4nqW8o8cT85NLxr68Hrpv4MZtsKh1M
+Kl7c8E6+ULLV9GnF9sUPX1HdocbHEBgOf9jtl1t27XxC242LtRHGFuOl1ZWPCxq7
+b0RduLDk5s/1aEPVwH+XA8H4
+=Mm9u
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andycds
+
+==================================================================
 
